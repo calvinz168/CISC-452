@@ -15,7 +15,7 @@ This project combines sentiment analysis of tweets with neural network models to
    - CNN + LSTM  
    - LSTM  
    - CNN  
-   File: `neural_network.ipynb`
+   File: `neural_networks.ipynb`
 
 3. **Data Sources**:  
    - **Raw Data**:  
@@ -31,7 +31,7 @@ This project combines sentiment analysis of tweets with neural network models to
 
 ```plaintext
 ├── preprocessing_sentiment_analysis.ipynb  # Sentiment analysis with VADER and BERT
-├── neural_network.ipynb                    # Neural network models for stock price prediction
+├── neural_networks.ipynb                    # Neural network models for stock price prediction
 ├── data/                                   # Folder containing CSV files
 │   ├── stock_tweets.csv                    # Raw tweets dataset
 │   ├── stock_yfinance_data.csv             # Raw stock price data
